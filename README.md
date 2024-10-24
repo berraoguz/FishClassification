@@ -1,5 +1,9 @@
 # Fish Classification Using Artificial Neural Networks
 
+## Projenin Kaggle Linki
+
+https://www.kaggle.com/code/berraoguz/fishclassification
+
 ## Proje Tanımı
 
 Bu proje, bir balık sınıflandırma veri setini kullanarak derin öğrenme yöntemleri ile balık türlerini sınıflandırmayı amaçlamaktadır. Görsel verileri işlemek ve sınıflandırmak için bir Yapay Sinir Ağı (ANN) modeli geliştirilmiştir. Proje, balıkların farklı türlerini tanımak için makine öğrenimi tekniklerinin nasıl uygulanabileceğine dair bir örnek sunmaktadır.
